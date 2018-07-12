@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e4e904d301b934aa0d354aa900103f3763595a30e7b1d40ea23d859cd41606e8"
+            "sha256": "74eedb36adaa338985a3c8dae433d0fd2454f81bb5cd6c842f276a04498f6321"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -29,6 +29,22 @@
                 "sha256:eb7386f632349d10d9ce9d4a838b134d4731571851149f9cc2c05a9a837a9a44"
             ],
             "version": "==2.1.3"
+        },
+        "cloudpickle": {
+            "hashes": [
+                "sha256:54858c7b7dc763ed894ff91059c1d0b017d593fe23850d3d8d75f47d98398197",
+                "sha256:ac7acd0dcb1c52fa14873f801efe0c53e6457bcc5f01542cb445a6515d9a4b72"
+            ],
+            "index": "pypi",
+            "version": "==0.5.3"
+        },
+        "dask": {
+            "hashes": [
+                "sha256:b50b435c51bf5ca30c2667d0d92649765b732a2e6bebe7e219e6dd3fe8d7ac4e",
+                "sha256:b89dc77ef23c380005db9441c3c42010fef47034c687f8d93d0e2619efa060c9"
+            ],
+            "index": "pypi",
+            "version": "==0.18.1"
         },
         "decorator": {
             "hashes": [
@@ -344,6 +360,13 @@
                 "sha256:0d5337839c788da5900df70f8e01015aec141aa3fe7936cb0d0a2953f7ac7609"
             ],
             "version": "==0.3.1"
+        },
+        "toolz": {
+            "hashes": [
+                "sha256:929f0a7ea7f61c178bd951bdae93920515d3fbdbafc8e6caf82d752b9b3b31c9"
+            ],
+            "index": "pypi",
+            "version": "==0.9.0"
         },
         "tornado": {
             "hashes": [
