@@ -11,6 +11,8 @@ pandas = "*"
 dask = "*"
 toolz = "*"
 cloudpickle = "*"
+scikit-learn = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
